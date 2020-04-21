@@ -21,7 +21,7 @@
 		<!--set this to your docker acct name-->
 		<docker.image.prefix>ankitech</docker.image.prefix>
 		<!--Set to name of project-->
-		<docker.image.name>counsilyapi</docker.image.name>
+		<docker.image.name>spring-docker</docker.image.name>
 	</properties>
 
 	<dependencies>
