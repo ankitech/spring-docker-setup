@@ -111,7 +111,7 @@
 						<groupId>org.codehaus.groovy</groupId>
 						<artifactId>groovy-all</artifactId>
 						<!-- any version of Groovy \>= 1.5.0 should work here -->
-						<version>1.7.6</version>
+						<version>2.4.4</version>
 						<scope>runtime</scope>
 					</dependency>
 				</dependencies>
